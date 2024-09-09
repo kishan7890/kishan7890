@@ -56,7 +56,7 @@
 
 ---
 
-Credits: [Kishan Kumar Sahu]((https://github.com/kishan7890))
+Credits: [Kishan Kumar Sahu](https://github.com/kishan7890)
 
 Last Edited on: 02/03/2024- 👋 Hi, I’m @kishan7890
 - 👀 I’m interested in ...
