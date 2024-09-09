@@ -32,7 +32,7 @@
 ### 🌐Socials
 
 
-<a href="mailto:sunilbrown89@gmail.com?subject=Hi"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="mailto:kishansahu9348@gmail.com?subject=Hi"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/sunil-sahu-s89/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://www.instagram.com/sunilsahu_89/?hl=en"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" alt="Instagram"/></a>&nbsp;
 
@@ -58,13 +58,7 @@
 
 Credits: [Kishan Kumar Sahu](https://github.com/kishan7890)
 
-Last Edited on: 02/03/2024- 👋 Hi, I’m @kishan7890
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Last Edited on: 09/09/2024
 
 <!---
 kishan7890/kishan7890 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
